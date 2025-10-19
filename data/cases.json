@@ -1,0 +1,51 @@
+{
+    "case 1": [
+        ["Jake", "Mike"],
+        ["Jimmy", "Mike"],
+        ["Daniel"]
+    ],
+    "case 2": [
+        ["Jake", "Mike"],
+        ["Daniel", "Jake", "Mike"],
+        ["Jimmy"]
+    ],
+    "case 3": [
+        ["Jake", "Mike"],
+        ["Daniel", "Jake", "Mike"],
+        ["Mike", "Jimmy"],
+        ["Jimmy"],
+        ["Jimmy", "Natalie"]
+    ],
+    "case 4": [
+        ["Jake", "Mike"],
+        ["Daniel", "Jake", "Mike", "Jimmy"],
+        ["Daniel", "Jimmy"],
+        ["Natalie"],
+        ["Jimmy", "Natalie"]
+    ],
+    "case 5": [
+        ["Ivan", "Natalie", "Jake"],
+        ["Ivan", "Georgii"],
+        ["Georgii", "Ivan", "Alex"],
+        ["Georgii"]
+    ],
+    "case 6": [
+        ["Ivan", "Jimmy"],
+        ["Georgii"],
+        ["Ivan", "Georgii", "Alex", "Natalie"]
+    ],
+    "case 7": [
+        ["Ivan", "Jimmy", "Georgii"],
+        ["Ivan", "Georgii", "Alex"],
+        ["Alex", "Mykhailo"],
+        ["Alex"],
+        ["Ivan"],
+        ["Georgii"],
+        ["Jimmy"]
+    ],
+    "case 8": [
+        ["Ivan", "Jake"],
+        ["Jake", "Jimmy", "Georgii"],
+        ["Ivan"]
+    ]
+}
